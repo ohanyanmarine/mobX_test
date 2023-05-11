@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.counter {
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.buttons {
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
